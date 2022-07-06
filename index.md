@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<h1>Gèmini Exchange | Log In to Account</h1>
 
-You can use the [editor on GitHub](https://github.com/geminilogin/hc-en-us/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can't get into your Gemini account? Don't worry, we have compiled a list of instructions and the most frequently asked questions from users having problems accessing/logging into their accounts.
+The Benefits of Verifying Your Gemini Login Account Include the Following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The verification procedure is the most common issue with blocked accounts. Non-verified members are restricted to $1,000 in total transaction value and must validate their account before continuing to make transactions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Verification allows for:
+ 
 
-```markdown
-Syntax highlighted code block
+If the volume of transactions has risen.
+ 
 
-# Header 1
-## Header 2
-### Header 3
+To add or withdraw money from Gemini, use a bank transfer or a debit/credit card.
+ 
 
-- Bulleted
-- List
+Support for more than 30 fiat currencies, cryptocurrencies, and commodities.
+ 
 
-1. Numbered
-2. List
+Gemini was founded in 2015 as a multi-asset digital money platform that allows customers to trade currencies from all over the world on a single platform. The present headquarters of the corporation are in New York.
+ 
 
-**Bold** and _Italic_ and `Code` text
+Depositing Crypto on Gemini Login Instructions
+ 
 
-[Link](url) and ![Image](src)
-```
+To begin, go to the Gemini login website, or launch the Gemini mobile app on an iOS or Android smartphone.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Then, in the provided box, enter your login password to get access to your account.
+ 
 
-### Jekyll Themes
+Now, select Add Fund from the drop-down menu. On your screen, a QR code will appear; scan the code to add assets to your Gemini login account.
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geminilogin/hc-en-us/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Alternatively, copy the address and paste it into the external wallet where you'll be adding assets.
 
-### Support or Contact
+Then, touch on the Account name and copy the address that appears on the page.
+ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The copied address must now be pasted into the Recipient area.
+ 
+
+Then, enter the amount you want to donate.
+ 
+
+Before you may use Gemini to withdraw money or send money to others, you must first verify your identity by uploading a photo of your government-issued photo ID. To complete your identity verification, you must also submit proof of address (such as a utility bill) and snap a live selfie.
+ 
+
+Account Administration
+ 
+
+Gemini Login is an online and mobile platform that lets users buy, sell, and trade cryptocurrencies, as well as national currencies, stocks, and precious metals. Users may monitor their portfolios, deposit and withdraw funds, and trade via a web browser. Gemini is a one-of-a-kind asset trading platform that allows customers to trade assets like Bitcoin for gold or Tesla shares for euros.
